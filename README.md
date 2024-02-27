@@ -1,4 +1,4 @@
-# Selenium Autotesting Hospital Management Systems 🏥
+# Selenium Autotesting Hospital Management System 🏥
 
 This project uses Selenium to automate testing for a Hospital Management System. Key features and improvements include:
 
